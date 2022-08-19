@@ -1,4 +1,4 @@
-# (Ivestigate the TMDB Movies Dataset)
+# (Investigate the TMDB Movies Dataset)
 ## by (Joshua Enam Semanyoh)
 
 
